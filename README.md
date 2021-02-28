@@ -1,5 +1,5 @@
 # studious-octo-enigma
-rust tool. generate password.
+Rust tool to generate password.
 
 # Command Line Options
 
