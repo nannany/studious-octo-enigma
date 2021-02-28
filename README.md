@@ -16,3 +16,14 @@ You can select "hard" or "normal". (Default is normal)
 ```
 !#$%&()=|.,;[]/<>:@?_'"\];
 ```
+
+## Example
+
+```
+C:\Users\nanna\.ghq\github.com\nannany\studious-octo-enigma\target\debug>pgen -s 15
+xXB2MQmPe5fR2YH
+
+C:\Users\nanna\.ghq\github.com\nannany\studious-octo-enigma\target\debug>pgen -s 15 -c hard
+B>GiCTp=@%]P[BN
+```
+
