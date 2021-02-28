@@ -22,11 +22,11 @@ fn main() {
     let mut password = "".to_string();
     let mut rng = rand::thread_rng();
     if &args.complexity == "hard" {
-        for i in 0..args.size {
+        for _i in 0..args.size {
             password += HARD[rng.gen_range(0..HARD.len())];
         }
     } else {
-        for i in 0..args.size {
+        for _i in 0..args.size {
             password += NORMAL[rng.gen_range(0..NORMAL.len())];
         }
     }
